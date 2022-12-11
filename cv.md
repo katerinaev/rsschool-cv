@@ -1,4 +1,6 @@
 # KATSIARYNA YEUTSIKHEVICH
+**FRONT-END DEVELOPER**
+
 
 ## Contacts
 
@@ -9,7 +11,7 @@
 
 ## Summary
 
-I would like to get JUNIOR FRONT-END WEB DEVELOPER position to use my professional skills in developing modern projects, usefull apps, to help achieve company’s aims as a web-developer. Getting this position allow me to apply my new knowledge, my wish to learn and find out new technologies in order to create perfect products to bring all my best to companies all over the world!
+I would like to get JUNIOR FRONT-END DEVELOPER position to use my professional skills in developing modern projects, usefull apps, to help achieve company’s aims as a web-developer. Getting this position allow me to apply my new knowledge, my wish to learn and find out new technologies in order to create perfect products to bring all my best to companies all over the world!
 
 ## Skills:
 
